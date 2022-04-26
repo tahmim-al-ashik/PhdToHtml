@@ -1,0 +1,7 @@
+1.first collect PSD file
+2.start from the top of psd to build it as html css js format 
+3.first setup environment like css reset code , normalize css and decalare margin padding 0 
+4.using minified version of third party files
+5.build custom grid for make it responsive
+6.after making pc version then chake it for every device and make it responsive
+7.minify js,css code and shrink image
